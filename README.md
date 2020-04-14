@@ -26,7 +26,8 @@ Haarcascade is used to detect the faces in the frames and the detected region is
 desired size and fed to the detector as input.
 
 ## Sample Output
-
+<img src ='Angry.png' width = 200>  
+<img src ='Happy.png' width = 200>
 
 
 
