@@ -6,7 +6,7 @@ In this project, we try to accurately classify facial expressions into one of se
 
 Angry----Disgust----Fear----Happy----Sad----Surprise----Neutral
 
-## Dateset
+## Dataset
 
 The dataset for this project can be found at this link:- https://www.kaggle.com/deadskull7/fer2013  
 Download and upzip the file.  
